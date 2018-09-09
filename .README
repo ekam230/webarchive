@@ -1,3 +1,5 @@
+взято с https://ruseo.net/parser-vebarhiva-t16092.html
+
 Допилил парсер чтобы восстанавливать заброшенные сайты из вебархива.
 
 Файл webarchive.php
